@@ -1,0 +1,14 @@
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\bin\Debug\net8.0\Assignment-C#.exe
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\bin\Debug\net8.0\Assignment-C#.deps.json
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\bin\Debug\net8.0\Assignment-C#.runtimeconfig.json
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\bin\Debug\net8.0\Assignment-C#.dll
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\bin\Debug\net8.0\Assignment-C#.pdb
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.AssemblyInfoInputs.cache
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.AssemblyInfo.cs
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.csproj.CoreCompileInputs.cache
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.dll
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\refint\Assignment-C#.dll
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.pdb
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\Assignment-C#.genruntimeconfig.cache
+C:\Users\mapoonia\source\repos\Assignment-C#\Assignment-C#\obj\Debug\net8.0\ref\Assignment-C#.dll
